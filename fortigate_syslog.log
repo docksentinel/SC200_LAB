@@ -1,0 +1,69 @@
+date=2026-10-06 time=10:00:00 devname="fw-lab" type="traffic" subtype="forward" action="accept" srcip=10.0.0.60 dstip=142.250.74.46 dstport=80 proto=6
+date=2026-10-06 time=10:00:30 devname="fw-lab" type="traffic" subtype="forward" action="accept" srcip=10.0.0.37 dstip=142.250.74.46 dstport=80 proto=6
+date=2026-10-06 time=10:01:00 devname="fw-lab" type="traffic" subtype="forward" action="accept" srcip=10.0.0.28 dstip=142.250.74.46 dstport=80 proto=6
+date=2026-10-06 time=10:01:30 devname="fw-lab" type="traffic" subtype="forward" action="accept" srcip=10.0.0.57 dstip=13.107.42.14 dstport=80 proto=6
+date=2026-10-06 time=10:02:00 devname="fw-lab" type="traffic" subtype="forward" action="accept" srcip=10.0.0.21 dstip=142.250.74.46 dstport=80 proto=6
+date=2026-10-06 time=10:02:30 devname="fw-lab" type="traffic" subtype="forward" action="accept" srcip=10.0.0.34 dstip=142.250.74.46 dstport=80 proto=6
+date=2026-10-06 time=10:03:00 devname="fw-lab" type="traffic" subtype="forward" action="accept" srcip=10.0.0.54 dstip=13.107.42.14 dstport=80 proto=6
+date=2026-10-06 time=10:03:30 devname="fw-lab" type="traffic" subtype="forward" action="accept" srcip=10.0.0.48 dstip=13.107.42.14 dstport=80 proto=6
+date=2026-10-06 time=10:04:00 devname="fw-lab" type="traffic" subtype="forward" action="accept" srcip=10.0.0.30 dstip=13.107.42.14 dstport=443 proto=6
+date=2026-10-06 time=10:04:30 devname="fw-lab" type="traffic" subtype="forward" action="accept" srcip=10.0.0.37 dstip=142.250.74.46 dstport=80 proto=6
+date=2026-10-06 time=10:05:00 devname="fw-lab" type="traffic" subtype="forward" action="accept" srcip=10.0.0.41 dstip=142.250.74.46 dstport=80 proto=6
+date=2026-10-06 time=10:05:00 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="admin" srcip=203.0.113.45 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:05:08 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="admin" srcip=203.0.113.45 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:05:16 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="admin" srcip=203.0.113.45 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:05:24 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="admin" srcip=203.0.113.45 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:05:30 devname="fw-lab" type="traffic" subtype="forward" action="accept" srcip=10.0.0.44 dstip=142.250.74.46 dstport=443 proto=6
+date=2026-10-06 time=10:05:32 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="admin" srcip=203.0.113.45 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:05:40 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="admin" srcip=203.0.113.45 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:05:48 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="admin" srcip=203.0.113.45 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:05:56 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="admin" srcip=203.0.113.45 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:06:00 devname="fw-lab" type="traffic" subtype="forward" action="accept" srcip=10.0.0.42 dstip=13.107.42.14 dstport=80 proto=6
+date=2026-10-06 time=10:06:04 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="admin" srcip=203.0.113.45 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:06:12 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="admin" srcip=203.0.113.45 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:06:20 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="admin" srcip=203.0.113.45 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:06:28 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="admin" srcip=203.0.113.45 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:06:30 devname="fw-lab" type="traffic" subtype="forward" action="accept" srcip=10.0.0.49 dstip=142.250.74.46 dstport=443 proto=6
+date=2026-10-06 time=10:06:36 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="admin" srcip=203.0.113.45 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:06:44 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="admin" srcip=203.0.113.45 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:06:52 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="admin" srcip=203.0.113.45 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:07:00 devname="fw-lab" type="traffic" subtype="forward" action="accept" srcip=10.0.0.25 dstip=13.107.42.14 dstport=443 proto=6
+date=2026-10-06 time=10:07:30 devname="fw-lab" type="traffic" subtype="forward" action="accept" srcip=10.0.0.56 dstip=142.250.74.46 dstport=80 proto=6
+date=2026-10-06 time=10:08:00 devname="fw-lab" type="traffic" subtype="forward" action="accept" srcip=10.0.0.22 dstip=142.250.74.46 dstport=443 proto=6
+date=2026-10-06 time=10:08:30 devname="fw-lab" type="traffic" subtype="forward" action="accept" srcip=10.0.0.25 dstip=142.250.74.46 dstport=80 proto=6
+date=2026-10-06 time=10:09:00 devname="fw-lab" type="traffic" subtype="forward" action="accept" srcip=10.0.0.44 dstip=13.107.42.14 dstport=443 proto=6
+date=2026-10-06 time=10:09:30 devname="fw-lab" type="traffic" subtype="forward" action="accept" srcip=10.0.0.60 dstip=13.107.42.14 dstport=80 proto=6
+date=2026-10-06 time=10:10:00 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="alice" srcip=10.0.0.15 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:10:20 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="alice" srcip=10.0.0.15 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:10:40 devname="fw-lab" type="event" subtype="user" level="information" logid="0100032002" action="login" status="success" user="alice" srcip=10.0.0.15 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:15:00 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="user00" srcip=192.0.2.99 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:15:10 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="user01" srcip=192.0.2.99 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:15:20 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="user02" srcip=192.0.2.99 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:15:30 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="user03" srcip=192.0.2.99 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:15:40 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="user04" srcip=192.0.2.99 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:15:50 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="user05" srcip=192.0.2.99 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:16:00 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="user06" srcip=192.0.2.99 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:16:10 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="user07" srcip=192.0.2.99 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:16:20 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="user08" srcip=192.0.2.99 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:16:30 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="user09" srcip=192.0.2.99 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:16:40 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="user10" srcip=192.0.2.99 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:16:50 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="user11" srcip=192.0.2.99 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:17:00 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="user12" srcip=192.0.2.99 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:17:10 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="user13" srcip=192.0.2.99 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:17:20 devname="fw-lab" type="event" subtype="user" level="alert" logid="0100032002" action="login" status="failed" user="user14" srcip=192.0.2.99 dstip=10.0.0.1 dstport=443
+date=2026-10-06 time=10:20:00 devname="fw-lab" type="traffic" subtype="forward" action="deny" srcip=198.51.100.77 dstip=10.0.0.10 dstport=20 proto=6
+date=2026-10-06 time=10:20:01 devname="fw-lab" type="traffic" subtype="forward" action="deny" srcip=198.51.100.77 dstip=10.0.0.10 dstport=21 proto=6
+date=2026-10-06 time=10:20:02 devname="fw-lab" type="traffic" subtype="forward" action="deny" srcip=198.51.100.77 dstip=10.0.0.10 dstport=22 proto=6
+date=2026-10-06 time=10:20:03 devname="fw-lab" type="traffic" subtype="forward" action="deny" srcip=198.51.100.77 dstip=10.0.0.10 dstport=23 proto=6
+date=2026-10-06 time=10:20:04 devname="fw-lab" type="traffic" subtype="forward" action="deny" srcip=198.51.100.77 dstip=10.0.0.10 dstport=24 proto=6
+date=2026-10-06 time=10:20:05 devname="fw-lab" type="traffic" subtype="forward" action="deny" srcip=198.51.100.77 dstip=10.0.0.10 dstport=25 proto=6
+date=2026-10-06 time=10:20:06 devname="fw-lab" type="traffic" subtype="forward" action="deny" srcip=198.51.100.77 dstip=10.0.0.10 dstport=26 proto=6
+date=2026-10-06 time=10:20:07 devname="fw-lab" type="traffic" subtype="forward" action="deny" srcip=198.51.100.77 dstip=10.0.0.10 dstport=27 proto=6
+date=2026-10-06 time=10:20:08 devname="fw-lab" type="traffic" subtype="forward" action="deny" srcip=198.51.100.77 dstip=10.0.0.10 dstport=28 proto=6
+date=2026-10-06 time=10:20:09 devname="fw-lab" type="traffic" subtype="forward" action="deny" srcip=198.51.100.77 dstip=10.0.0.10 dstport=29 proto=6
+date=2026-10-06 time=10:20:10 devname="fw-lab" type="traffic" subtype="forward" action="deny" srcip=198.51.100.77 dstip=10.0.0.10 dstport=30 proto=6
+date=2026-10-06 time=10:20:11 devname="fw-lab" type="traffic" subtype="forward" action="deny" srcip=198.51.100.77 dstip=10.0.0.10 dstport=31 proto=6
+date=2026-10-06 time=10:20:12 devname="fw-lab" type="traffic" subtype="forward" action="deny" srcip=198.51.100.77 dstip=10.0.0.10 dstport=32 proto=6
+date=2026-10-06 time=10:20:13 devname="fw-lab" type="traffic" subtype="forward" action="deny" srcip=198.51.100.77 dstip=10.0.0.10 dstport=33 proto=6
+date=2026-10-06 time=10:20:14 devname="fw-lab" type="traffic" subtype="forward" action="deny" srcip=198.51.100.77 dstip=10.0.0.10 dstport=34 proto=6
+date=2026-10-06 time=10:20:15 devname="fw-lab" type="traffic" subtype="forward" action="deny" srcip=198.51.100.77 dstip=10.0.0.10 dstport=35 proto=6
